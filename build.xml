@@ -4,7 +4,7 @@
 
 	<target name="info">
 
-		<echo> Integration between Jenkins, git and ANT is done.</echo>
+		<echo> Integration between Jenkins, git and ANT is done. V1</echo>
 
 	</target>
 </project>
